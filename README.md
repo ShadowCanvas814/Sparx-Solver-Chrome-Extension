@@ -53,7 +53,13 @@ SparxAI dynamically adapts its interface based on where you are working:
 
 ---
 
-## make sure to check out our other work at https://github.com/shadowgamingyt98980-commits/RevisionAI and https://github.com/shadowgamingyt98980-commits/WhatsApp-To-Discord-Terminal-
+## make sure to check out our other work at 
+
+https://github.com/shadowgamingyt98980-commits/RevisionAI
+
+and 
+
+https://github.com/shadowgamingyt98980-commits/WhatsApp-To-Discord-Terminal-
 
 ---
 
